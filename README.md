@@ -6,7 +6,7 @@
 ## 🇬🇧 English
 
 ### What is this PR?
-This pull request adds a **complete French translation** to the game while keeping the original English version 100% intact.
+This pull request adds a **complete French translation** (!) to the game while keeping the original English version 100% intact.
 
 ### Architecture — Why this is a good PR
 We chose a **self-contained, non-intrusive overlay** so that future updates to the original game are safe and merge-conflict free:
